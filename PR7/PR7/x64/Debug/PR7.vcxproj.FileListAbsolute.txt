@@ -1,0 +1,4 @@
+C:\Users\krasn\OneDrive\Рабочий стол\PR7\PR7\x64\Debug\PR7.vcxproj.AssemblyReference.cache
+C:\Users\krasn\OneDrive\Рабочий стол\PR7\PR7\x64\Debug\PR7.MyForm.resources
+C:\Users\krasn\OneDrive\Рабочий стол\PR7\PR7\x64\Debug\PR7.MyForm1.resources
+C:\Users\krasn\OneDrive\Рабочий стол\PR7\PR7\x64\Debug\PR7.vcxproj.GenerateResource.cache
